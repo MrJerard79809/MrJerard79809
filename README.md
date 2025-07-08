@@ -29,7 +29,7 @@ Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express  
 - **Mobile:** Java (Android Studio)  
 - **Tools:** Git, GitHub, VS Code
