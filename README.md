@@ -4,7 +4,7 @@
 ---
 
 ### 🔗 Portfolio  
-Explore my living portfolio at [test.jerardavila.xyz](https://test.jerardavila.xyz/)
+Explore my living portfolio at [test.jerardavila.xyz](https:/jerardavila.xyz/)
 
 ---
 
@@ -13,16 +13,14 @@ Explore my living portfolio at [test.jerardavila.xyz](https://test.jerardavila.x
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/280x150?text=Project+1" alt="MyPortfolio"/><br>
       <b>MyPortfolio</b><br>
       A fully responsive personal website showcasing my skills, resume, and past work in a modern layout.<br>
-      <a href="https://github.com/MrJerard79809/MyPortfolio">🔗 View on GitHub</a>
+      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/280x150?text=Budget+Planner" alt="MoneyBudgetPlanner"/><br>
       <b>MoneyBudgetPlanner</b><br>
       A simple and user‑friendly budgeting app in Java (Android Studio) to track expenses and manage budgets.<br>
-      <a href="https://github.com/MrJerard79809/MoneyBudgetPlanner">🔗 View on GitHub</a>
+      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on GitHub</a>
     </td>
   </tr>
 </table>
@@ -42,7 +40,7 @@ Explore my living portfolio at [test.jerardavila.xyz](https://test.jerardavila.x
 
 Feel free to reach out if you'd like to collaborate or just chat about tech:
 
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 [your-email@example.com](mailto:portfolio@jerardavila.xyz)
 
 ---
 
