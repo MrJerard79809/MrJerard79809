@@ -15,12 +15,12 @@ Explore my living portfolio at [test.jerardavila.xyz](https:/jerardavila.xyz/)
     <td align="center">
       <b>MyPortfolio</b><br>
       A fully responsive personal website showcasing my skills, resume, and past work in a modern layout.<br>
-      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on GitHub</a>
+      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on Portfolio</a>
     </td>
     <td align="center">
       <b>MoneyBudgetPlanner</b><br>
       A simple and user‑friendly budgeting app in Java (Android Studio) to track expenses and manage budgets.<br>
-      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on GitHub</a>
+      <a href="https://www.jerardavila.xyz/portfolio">🔗 View on Portfolio</a>
     </td>
   </tr>
 </table>
