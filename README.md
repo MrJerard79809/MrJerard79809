@@ -4,7 +4,7 @@
 ---
 
 ### 🔗 Portfolio  
-Explore my living portfolio at [test.jerardavila.xyz](https:/jerardavila.xyz/)
+Explore my living portfolio at [test.jerardavila.xyz](https://www.jerardavila.xyz/)
 
 ---
 
