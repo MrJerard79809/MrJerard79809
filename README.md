@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jerard Avila</h1>
-<p align="center"><strong>Full‑Stack Developer & Digital Creator</strong></p>
+<p align="center"><strong>Developer & Graphic Designer</strong></p>
 
 ---
 
