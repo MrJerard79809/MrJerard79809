@@ -4,7 +4,7 @@
 ---
 
 ### 🔗 Portfolio  
-Explore my living portfolio at [test.jerardavila.xyz](https://www.jerardavila.xyz/)
+Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 
 ---
 
@@ -40,7 +40,7 @@ Explore my living portfolio at [test.jerardavila.xyz](https://www.jerardavila.xy
 
 Feel free to reach out if you'd like to collaborate or just chat about tech:
 
-📧 [your-email@example.com](mailto:portfolio@jerardavila.xyz)
+📧 [portfolio@jerardavila.xyz](mailto:portfolio@jerardavila.xyz)
 
 ---
 
