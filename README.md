@@ -30,8 +30,7 @@ Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Netlify Function Backend
-- **Mobile:** Java (Android Studio)  
+- **Backend:** Node.js, Netlify Function Backend  
 - **Tools:** Git, GitHub, VS Code
 
 ---
