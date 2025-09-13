@@ -44,5 +44,3 @@ Feel free to reach out if you'd like to collaborate or just chat about tech:
 ---
 
 <p align="center"><sub>&copy; 2025 Jerard Avila. Built with passion and clean code.</sub></p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e1a489a-b5ca-47aa-b52a-f7820cd66662/deploy-status)](https://app.netlify.com/projects/jerardavila/deploys)
