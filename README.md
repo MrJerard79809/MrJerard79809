@@ -1,10 +1,13 @@
-<h1 align="center">👋 Hi, I'm Jerard Avila</h1>
-<p align="center"><strong>Developer & Graphic Designer</strong></p>
+<div align="center">
 
----
+# Jerard Avila
 
-### 🔗 Portfolio  
-Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
+**Developer & Graphic Designer** · Taguig, Philippines
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jerardavila.xyz-534AB7?style=flat-square&logo=globe&logoColor=white)](https://www.jerardavila.xyz/)
+[![Email](https://img.shields.io/badge/Email-portfolio@jerardavila.xyz-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:portfolio@jerardavila.xyz)
+
+</div>
 
 ---
 
@@ -12,14 +15,23 @@ Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 
 <table>
   <tr>
-    <td align="center">
-      <b>MyPortfolio</b><br>
-      A fully responsive personal website showcasing my skills, resume, and past work in a modern layout.<br>
+    <td width="50%" valign="top">
+      <h3>🌐 MyPortfolio</h3>
+      <p>Fully responsive personal website showcasing my skills, resume, and past work in a modern layout.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
       <a href="https://www.jerardavila.xyz/portfolio">🔗 View on Portfolio</a>
     </td>
-    <td align="center">
-      <b>MoneyBudgetPlanner</b><br>
-      A simple and user‑friendly budgeting app in Java (Android Studio) to track expenses and manage budgets.<br>
+    <td width="50%" valign="top">
+      <h3>💰 MoneyBudgetPlanner</h3>
+      <p>Simple and user-friendly budgeting app in Java (Android Studio) to track expenses and manage budgets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
       <a href="https://www.jerardavila.xyz/portfolio">🔗 View on Portfolio</a>
     </td>
   </tr>
@@ -29,9 +41,19 @@ Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Netlify Function Backend  
-- **Tools:** Git, GitHub, VS Code
+**Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -39,8 +61,11 @@ Explore my living portfolio at [jerardavila.xyz](https://www.jerardavila.xyz/)
 
 Feel free to reach out if you'd like to collaborate or just chat about tech:
 
-📧 [portfolio@jerardavila.xyz](mailto:portfolio@jerardavila.xyz)
+- 🌐 [jerardavila.xyz](https://www.jerardavila.xyz/)
+- 📧 [portfolio@jerardavila.xyz](mailto:portfolio@jerardavila.xyz)
 
 ---
 
-<p align="center"><sub>&copy; 2025 Jerard Avila. Built with passion and clean code.</sub></p>
+<div align="center">
+  <sub>© 2025 Jerard Avila · Built with passion and clean code.</sub>
+</div>
